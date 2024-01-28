@@ -16,6 +16,6 @@ Olá, Bem vindo ao meu projeto de CV.
 
 ### Moniky Cusato
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/monikycusato/
 
 ```
